@@ -36,10 +36,10 @@
     "PositionLimit": 100
   },
   "Traders": {
-    "TraderOne": "secret",
-    "TraderTwo": "secret",
-    "TraderThree": "secret",
-    "TraderFour": "secret",
+    "Dynamic Lot": "secret",
+    "Michael": "secret",
+    "Submitted": "secret",
+    "Dynamic Lot2": "secret",
     "TraderFive": "secret",
     "TraderSix": "secret",
     "TraderSeven": "secret",
